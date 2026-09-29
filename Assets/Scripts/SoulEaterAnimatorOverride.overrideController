@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SoulEaterAnimatorOverride
+  m_Controller: {fileID: 9100000, guid: 7980e99c3577b1d45b144ab3b60f8475, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 2f381863b81afe445bb3bbd18f1e90cc, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 53822ae0b4a40a24b97e0cf0388e4248, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 601b9e9a8720f834fb218a15d9f3ae63, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 1e32448c0eb5bdb45b3a576fb8011df0, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 2881cf760574bd24280f47207b567e43, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 24717e004c7ffb84a901d2dfdcc426bf, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: f728a9645c91629469fdc1e9a452ddea, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 9b846aa063f67a34b80cef9a15befe38, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: b39c8cd2e979bd0458d96f045c9e4464, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 6e4f9ef5485ccb04299f52ceae24d120, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 01f3cd440df370b4796840c93effc251, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 34cbf41484d0da24e9a24545c9d5a332, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 9700edab3a23d7d408e78a7cb99cf41d, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 93048e03d4dc597468fce555d02e9274, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 215d9268815c12d4389d713b8b1f8b12, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 37760f0079ba2124cb0198d37570b625, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 49d0a594e1ca9d54ca3e17fb24d28f5c, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 6f83b9d81f8c7854baeca6ff691bb0c1, type: 3}
